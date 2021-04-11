@@ -1,0 +1,343 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+header{
+	width: 100%;
+	padding: 22px;
+	position: absolute;
+	border-bottom: 1px solid #383838;
+}
+
+.nav-item{
+	margin-left: 30px;
+}
+.navbar-website{
+	margin-left: 8px; 
+}
+.nav-link{
+	font-weight: 400;
+	font-size: 12px;
+	color: white !important;
+}
+.d-flex{
+	margin-left: 30px;	
+}
+.d-flex input{
+	border-radius: 35px;
+	font-size: 12px;
+	padding: 9px 22px;
+}
+.banner{
+	background: url(../img/Pex.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	display: block;
+}
+.banner-content{
+	padding-top: 50%;
+	padding-left: 6%;
+}
+.banner-content h1{
+	color: white;
+	font-weight: 400;
+	font-size: 40px;
+}
+.banner-content h2{
+	padding-left: 77px;
+	color: white;
+	font-weight: 400;
+	font-size: 40px;
+}
+.banner-content button{
+    background: #8824cd;
+    font-size: 12px;
+    color: white;
+    border: 1px solid #83646f;
+    border-radius: 61px;
+    padding: 8px 34px;
+    font-weight: bold;
+    margin-left: 35%;
+    margin-top: 22px;
+}
+.banner-content button:hover {
+	background: white;
+	transition: 5s;
+	color:#8824cd;
+}
+.banner-content p{
+	color: white;
+	font-weight: 50;
+	font-size: 8px;
+	padding-left: 38%;
+	margin-top: 12px;
+}
+.fantasitc{
+	width: 100%;
+	background:url(../img/Pex9.png);
+	padding-top: 60px;
+	height: 48vh;
+}
+.fantastic-text h4{
+	font-size: 13px;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 700;
+	padding-bottom: 15px;
+}
+.fantastic-text p{
+	font-size: 13px;
+	color: white;
+	font-weight: 100;
+}
+.fantastic-lorem{
+	padding-top: 40px;
+}
+.wicked{
+	width: 100%;
+	background:url(../img/Pex1.png);
+	padding-top: 100px;
+	height: 60vh;
+}
+.bang{
+	margin-left: 60px;
+}
+.bang h1{
+	font-size: 30px;
+	color: white;
+	font-weight: 200;
+	padding-left: 30px;
+	padding-bottom: 10px;
+}
+.bang p{
+	font-size: 13px;
+	color: white;
+	font-weight: 200;
+	padding-left: 70px;
+	padding-bottom: 10px;
+	line-height: 20px;
+}
+.bang button{
+	background: white;
+    font-size: 13px;
+    color: #d54c63;
+    border: none;
+    border-radius: 64px;
+    padding: 11px 51px;
+    font-weight: bold;
+    margin-left: 150px;
+}
+.bang button:hover{
+	background: #d54c63;
+	transition: 0.5s;
+	color: white;
+}
+
+.tempor{
+	width: 100%;
+}
+.tempor-text{
+	padding: 114px 69px;
+}
+.tempor-logo img{
+	width: 100%;
+	margin-right: 100px;
+}
+.tempor-text h4{
+	font-size: 13px;
+	color: #3a4d60;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-left: 30px;
+}
+.tempor-text p{
+	font-size: 15px;
+	color: #3a4d60;
+	font-weight: 500;
+	margin-left: 30px;
+	margin-bottom: 10px;
+	line-height: 25px;
+}
+.tempor-text h5{
+	font-size: 12px;
+	color: #3a4d60;
+	font-weight: 500;
+	margin-left: 30px;
+	margin-top: 25px;
+	line-height: 20px;
+}
+.exprience{
+	background: url(../img/Pex4.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	position: relative;
+	
+}
+.incididunt{
+	background: url(../img/Pex5.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 80vh;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	
+}
+.rush{
+	padding-top: 150px;
+}
+.rush h1{
+	font-size: 35px;
+    color: white;
+    font-weight: 300;
+    padding-left: 104px;
+    padding-bottom: 10px;
+}
+.rush p{
+	font-size: 16px;
+	color: #a275b1;
+	font-weight: 600;
+	padding-left: 14px;
+	padding-bottom: 10px;
+	line-height: 18px;
+	line-height: 25px;
+}
+.rush button{
+	background: #8824cd;
+    font-size: 13px;
+    color: white;
+    border: none;
+    border-radius: 64px;
+    padding: 15px 53px;
+    font-weight: bold;
+    margin-left: 200px;
+}
+.rush button:hover{
+	background: white;
+	transition: 0.5s;
+	color: #8824cd;
+}
+.rush h5{
+	font-size: 10px;
+	color: white;
+	font-weight: 200;
+	margin-left: 220px;
+	margin-top: 10px;
+	line-height: 20px;
+}
+.ipsum{
+	background: url(../img/Pex6.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+.photograph{
+	padding: 30% 10%;
+}
+.photograph button{
+	background: transparent;
+    font-size: 12px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 50px;
+    padding: 6px 25px;
+    margin-bottom: 15px;
+}
+.photograph button:hover{
+	background: #004435;
+	transition: 0.5s;
+}
+.photograph h1{
+	font-size: 35px;
+    color: white;
+    font-weight: 400;
+}
+.photo{
+	margin-top: 20px;
+}
+.photo span{
+	font-size: 10px;
+	color: white;
+	font-weight: 600;
+	padding-left: 8px;
+}
+.photo img{
+	height: 45px;
+    width: 45px;
+    border-radius: 50%;
+}
+.excepteur-text{
+	padding: 129px 120px;
+}
+.excepteur-text h4{
+	font-size: 13px;
+	color: #3a4d60;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-left: 30px;
+}
+.excepteur-text p{
+	font-size: 15px;
+	color: #3a4d60;
+	font-weight: 500;
+	margin-left: 30px;
+	margin-bottom: 10px;
+	line-height: 25px;
+}
+.excepteur-text h5{
+	font-size: 12px;
+	color: #3a4d60;
+	font-weight: 500;
+	margin-left: 30px;
+	margin-top: 25px;
+	line-height: 20px;
+}
+.excepteur-logo img{
+	width: 100%;
+}
+.touch{
+	background: url(../img/Pex8.png);
+	padding-top: 70px;
+	height: 50vh;
+}
+.touch-text h4{
+	font-size: 13px;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-left: 36px;
+}
+.touch-text p{
+	font-size: 13px;
+	color: white;
+	font-weight: 380;
+	margin-left: 36px;
+	margin-bottom: 10px;
+	line-height: 25px;
+}
+.touch-text h5{
+	font-size: 13px;
+	color: white;
+	font-weight: 380;
+	margin-left: 36px;
+	padding-top: 20px;
+	text-decoration: underline;
+}
+.footer{
+	background: url(../img/Pex9.png);
+	padding-top: 70px;
+	height: 40vh;
+}
+.last-text p {
+	font-size: 10px;
+	color: white;
+	font-weight: 200;
+	margin-left: 36px;
+}
